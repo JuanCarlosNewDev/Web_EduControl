@@ -10,10 +10,3 @@ Sistema web de gestión y control educativo desarrollado con **Laravel 13**, cre
 * **Frontend:** Blade, Tailwind CSS / Bootstrap, JavaScript
 * **Base de Datos:** MySQL / MariaDB
 * **Control de Versiones:** Git & GitHub
-
-## ⚙️ Instalación y Configuración Local
-
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/Web-EduControl.git](https://github.com/tu-usuario/Web-EduControl.git)
-   cd Web-EduControl
